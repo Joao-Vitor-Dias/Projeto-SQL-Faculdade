@@ -24,7 +24,7 @@ Tive que fazer um MER (Modelo Entidade-Relacionamento) com base nas seguintes re
 ## Segunda Etapa - Implementação.
 Tive que fazer a implementação de um banco de dados seguindo a seguintes regras de negocio.
 <br>
-<img src= "Locadora">
+<img src= "Locadora.png">
 <br>
 Fiz a implementação em dois bancos de dados diferentes no SQL Server e no MySQL.
 
